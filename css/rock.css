@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(25,25,25);
+    color:white;
+    font-family:Arial;
+}
+.title{
+    font-size:30px;
+    font-weight:bold;
+}
+.pic{
+    height:50px;
+}
+.move-button{
+    background-color:transparent;
+    border-style:solid;
+    border-width:2px;
+    border-color:rgb(255,255,255);
+    padding:40px;
+    border-radius:50%;
+    margin-right:10px;
+    cursor:pointer;
+}
+.reset,.auto-play,.button-yes,.button-no{
+    font-size:15px;
+    padding:5px;
+    font-style:bold;
+    cursor:pointer;
+    
+}
+img{
+    height:50px;
+}
